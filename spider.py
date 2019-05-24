@@ -7,3 +7,5 @@ html = urllib.request.urlopen(
 
 soup = BeautifulSoup(html, 'html.parser')
 img_src = soup.select_one("#wiki-body > div > p > img")['src']
+
+urllib.request.urlretrieve(img_src, 'ss_accounts.png')
