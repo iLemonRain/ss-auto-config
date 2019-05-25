@@ -59,7 +59,7 @@ python app.py
         'method': 'method',
         'password': 'password',
         'remarks': '2',
-        'server': '6ip',
+        'server': 'ip',
         'server_port': 54321
     }
 ]
