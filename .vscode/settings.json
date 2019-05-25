@@ -1,6 +1,0 @@
-{
-    "python.pythonPath": "/home/slimwang/.local/share/virtualenvs/ss-auto-config-QISZwl2c/bin/python",
-    "python.linting.pylintEnabled": false,
-    "python.linting.flake8Enabled": true,
-    "python.linting.enabled": true
-}
